@@ -1,0 +1,9 @@
+INICIAR PROJETO = npm init
+
+INICIAR TYPESCRIPT = tsc --init
+
+NO TSCONFIG = "rootDir": "./src", "outDir": "./dist", "moduleResolution": "node",     
+
+DEPENDENCIES = npm install express mustache-express dotenv (EXPRESS, mustache, dotenv)
+
+DEPENDENCIES DE DESENVOLVIMENTO = npm install --save-dev @types/express @types/mustache-express @types/node
